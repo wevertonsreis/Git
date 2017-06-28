@@ -57,10 +57,14 @@ git branch -r
 
 git branch -a
 
-### Listando os commits
+#### Listando os commits
 
 git log
 
-#### listando os commits e seus respectivos pais
+#### Listando os commits e seus respectivos pais
 
 git log --parents
+
+#### Listando as tags do meu projeto
+
+git tag
