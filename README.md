@@ -23,6 +23,9 @@ git add .
 ##### Enviando arquivos que estão dentro de um diretorio:
 git add pasta1/pasta2/
 
+##### Modo interativo
+git add -i
+
 #### Realizando o commit das alteração
 
 git commit -m "Meu primeiro commit"
