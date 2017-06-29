@@ -9,6 +9,14 @@ git init
 
 git remote add origin https://github.com/wevertonsreis/Git.git
 
+#### Listado os repositórios remotos
+
+git remote
+
+#### Listando os repositórios remotos com a informação da URL
+
+git remote -v
+
 #### Colocando os arquivos na área de stage
 
 ##### Enviando um arquivo:
