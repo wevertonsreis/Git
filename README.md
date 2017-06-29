@@ -84,6 +84,18 @@ git branch -r
 
 git branch -a
 
+#### Listando os branches locais com a informação do ultimo commit realizado
+
+git branch -v
+
+#### Listando os branchs remotos com a informação do ultimo commit realizado
+
+git branch -r -v
+
+#### Listando os branches remotos e locais com a informação do ultimo commit realizado
+
+git branch -a -v
+
 #### Listando os commits
 
 git log
