@@ -9,6 +9,22 @@ git init
 
 git remote add origin https://github.com/wevertonsreis/Git.git
 
+#### Colocando os arquivos na área de stage
+
+##### Enviando um arquivo:
+git add arquivo.teste
+
+##### Enviando mais de um arquivo:
+git add arquivo1.teste arquivo2.teste
+
+##### Enviando tudo:
+git add .
+
+##### Enviando arquivos que estão dentro de um diretorio:
+git add pasta1/pasta2/
+
+#### Realizando o commit das alteração
+
 git commit -m "Meu primeiro commit"
 
 #### Enviando os commits para o repositório remoto
