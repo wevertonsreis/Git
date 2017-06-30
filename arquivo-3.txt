@@ -1,1 +1,1 @@
-Aqui e uma correção que fiz e vou passar para o master
+nova funcionalidade da versao 2.0
