@@ -74,7 +74,10 @@ git branch -d meubranch
 
 #### Deletando um branch remoto
 
+// esta deletando o informação que tinha do branch remoto
 git branch -dr meubranch
+
+git push origin meubranch --delete
 
 #### Listando os branches remotos
 
